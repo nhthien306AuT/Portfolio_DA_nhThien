@@ -8,9 +8,9 @@
 - LinkedIn: [Thiện Nguyễn on LinkedIn](https://www.linkedin.com/in/nhthien306aut/)
 
 ## 📊 Portfolio Projects
-### 1. Air Quality Time Series Analysis
+### 1. Chemical Exposure
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/castnet-nadp-analysis)
-- Description: Analyze air quality trends over 25 years from CASTNET/NADP datasets. Line chart, map animation, missing sample statistics, dash app.
+- Description: Analyze wet & dry deposition trends over 25 years from CASTNET/NADP datasets. Line chart, map animation, missing sample statistics, dash app.
 
 ---
 
