@@ -5,7 +5,7 @@
 
 ## 📬 Contact
 - Email: nhthien30kh@gmail.com
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/nhthien306aut/)
+- LinkedIn: (https://www.linkedin.com/in/nhthien306aut/)
 
 ## 📊 Portfolio Projects
 ### 1. Air Quality Time Series Analysis
