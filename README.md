@@ -11,7 +11,9 @@
 ### 1. Chemical Exposure
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/castnet-nadp-analysis)
 - Description: Analyze wet & dry deposition trends over 25 years from CASTNET/NADP datasets. Line chart, map animation, missing sample statistics, dash app.
-
+### 2. Cyclistic Bike Share
+- Repo: [🔗 View Project](https://github.com/nhthien306AuT/cyclistic_analysis)
+- Description: Analyze the user trip over the past year: ride usage, user-behavior, density & distribution.
 ---
 
 ## 💡 About Me
