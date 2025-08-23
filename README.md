@@ -14,6 +14,9 @@
 ### 2. Cyclistic Bike Share
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/cyclistic_analysis)
 - Description: Analyze the user trips over the past year: ride usage, user-behavior, density & distribution.
+### 3. Bellabeat Health
+- Repo: [🔗 View Project](https://github.com/nhthien306AuT/BellaBeat-Analysis)
+- Description: Analyzed and visualized smart device health data (activity, sleep, calories, heart rate) to uncover user behavior patterns.
 ---
 
 ## 💡 About Me
