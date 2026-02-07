@@ -33,7 +33,7 @@
 ### 1. HR department
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/HR_Department_BI)
 - Description: By digitally transforming HR operations that previously relied on manual Excel-based workflows into a centralized Power BI–driven analytics platform, the organization enables data-driven workforce decisions across hiring, performance, compensation, and retention. This transformation reduces reporting effort by up to 80%, improves hiring efficiency by 30%, lowers employee attrition by 15% through early risk identification, and optimizes compensation and retention spending by 10–20%, resulting in an estimated 30–60% overall improvement in HR decision effectiveness.
-### 1. Ecommerce department
+### 2. Ecommerce department
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/Ecom_BI)
 - Description: E-commerce Business Intelligence Dashboard designed to support management-level decision-making by replacing Excel-based reporting with a centralized MySQL + DBeaver and Power BI system.
 The solution reduced manual reporting effort by up to ~85%, improved decision-making speed by ~70%, and significantly increased visibility into revenue, profit, product performance, and customer behavior.
